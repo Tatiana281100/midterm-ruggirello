@@ -140,7 +140,7 @@ h3{
 }
 
 .info input[type="Submit"]{
-    margin-top: 15px;
+    margin-top: 15px; 
     padding: 10px 20px;
     font-size: 12px;
     text-transform: uppercase;
